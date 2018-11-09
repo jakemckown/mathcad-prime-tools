@@ -6,11 +6,11 @@ Inspired by, and in some parts ported directly from VBA to Mathcad from, [Tim Ha
 
 Read and parse JSON file:
 
-![Read and parse JSON file](https://github.com/jakemckown/mathcad/json/Read_and_Parse_JSON.png "Read and parse JSON file")
+![Read and parse JSON file](Read_and_Parse_JSON.png)
 
 Update JSON object:
 
-![Update JSON object](https://github.com/jakemckown/mathcad/json/Update_JSON.png "Update JSON object")
+![Update JSON object](Update_JSON.png)
 
 ## Installation
 
