@@ -1,0 +1,15 @@
+{
+    "object": {
+        "number": 1.234e5,
+        "string": "\u00A9 2018\nJake McKown"
+    },
+    "array": [
+        {
+            "true": true,
+            "false": false,
+            "null": null
+        },
+        {},
+        []
+    ]
+}
