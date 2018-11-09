@@ -1,0 +1,1 @@
+(:= (@FUNCTION (@LABEL VARIABLE (@ID SkipSpaces (@SUB JSON))) (@ARGS (@SEP (@LABEL VARIABLE JSON) (@LABEL VARIABLE Index)))) (@PROGRAM (@WHILE (@AND (@AND (@GEQ Index 0) (< Index (@APPLY rows (@ARGS JSON)))) (@EQ (@INDEX JSON Index) 32)) (@BODY (@ASSIGN (@LABEL VARIABLE Index) (+ Index 1)))) (@RETURN Index)))
